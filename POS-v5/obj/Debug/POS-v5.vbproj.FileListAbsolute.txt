@@ -1,0 +1,159 @@
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-v5\POS-v5\bin\Debug\POS-v5.exe.config
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-v5\POS-v5\bin\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-v5\POS-v5\bin\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-v5\POS-v5\bin\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-v5\POS-v5\obj\Debug\POS_v5.Form1.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-v5\POS-v5\obj\Debug\POS_v5.Resources.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-v5\POS-v5\obj\Debug\POS-v5.vbproj.GenerateResource.Cache
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-v5\POS-v5\obj\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-v5\POS-v5\obj\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-v5\POS-v5\obj\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-v5\POS-v5\obj\Debug\POS_v5.LoginAdmin.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-v5\POS-v5\obj\Debug\POS_v5.Forgot_Pass.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-v5\POS-v5\obj\Debug\POS_v5.Form2.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-v5\POS-v5\obj\Debug\POS_v5.StaffDashBoard.resources
+C:\Users\ADMIN\Desktop\POS-v5\POS-v5\bin\Debug\POS-v5.exe.config
+C:\Users\ADMIN\Desktop\POS-v5\POS-v5\obj\Debug\POS-v5.exe
+C:\Users\ADMIN\Desktop\POS-v5\POS-v5\obj\Debug\POS-v5.xml
+C:\Users\ADMIN\Desktop\POS-v5\POS-v5\obj\Debug\POS-v5.pdb
+C:\Users\ADMIN\Desktop\POS-v5\POS-v5\bin\Debug\POS-v5.exe
+C:\Users\ADMIN\Desktop\POS-v5\POS-v5\bin\Debug\POS-v5.pdb
+C:\Users\ADMIN\Desktop\POS-v5\POS-v5\bin\Debug\POS-v5.xml
+C:\Users\ADMIN\Desktop\POS-v5\POS-v5\obj\Debug\POS-v5.vbprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\POS-v5\POS-v5\obj\Debug\POS_v5.Forgot_Pass.resources
+C:\Users\ADMIN\Desktop\POS-v5\POS-v5\obj\Debug\POS_v5.Form1.resources
+C:\Users\ADMIN\Desktop\POS-v5\POS-v5\obj\Debug\POS_v5.LoginAdmin.resources
+C:\Users\ADMIN\Desktop\POS-v5\POS-v5\obj\Debug\POS_v5.Resources.resources
+C:\Users\ADMIN\Desktop\POS-v5\POS-v5\obj\Debug\POS_v5.StaffDashBoard.resources
+C:\Users\ADMIN\Desktop\POS-v5\POS-v5\obj\Debug\POS-v5.vbproj.GenerateResource.Cache
+C:\Users\Jessica Rose Tinio\Desktop\JB\V2\POS-v5\POS-v5\bin\Debug\POS-v5.exe.config
+C:\Users\Jessica Rose Tinio\Desktop\JB\V2\POS-v5\POS-v5\obj\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\V2\POS-v5\POS-v5\obj\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\V2\POS-v5\POS-v5\obj\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\V2\POS-v5\POS-v5\bin\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\V2\POS-v5\POS-v5\bin\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\V2\POS-v5\POS-v5\bin\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\V2\POS-v5\POS-v5\obj\Debug\POS-v5.vbprojResolveAssemblyReference.cache
+C:\Users\Jessica Rose Tinio\Desktop\JB\V2\POS-v5\POS-v5\obj\Debug\POS_v5.Forgot_Pass.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\V2\POS-v5\POS-v5\obj\Debug\POS_v5.Form1.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\V2\POS-v5\POS-v5\obj\Debug\POS_v5.LoginAdmin.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\V2\POS-v5\POS-v5\obj\Debug\POS_v5.Resources.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\V2\POS-v5\POS-v5\obj\Debug\POS_v5.StaffDashBoard.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\V2\POS-v5\POS-v5\obj\Debug\POS-v5.vbproj.GenerateResource.Cache
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-TRIAL\POS-v5\bin\Debug\POS-v5.exe.config
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-TRIAL\POS-v5\obj\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-TRIAL\POS-v5\obj\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-TRIAL\POS-v5\obj\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-TRIAL\POS-v5\bin\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-TRIAL\POS-v5\bin\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-TRIAL\POS-v5\bin\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-TRIAL\POS-v5\obj\Debug\POS-v5.vbprojResolveAssemblyReference.cache
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-TRIAL\POS-v5\obj\Debug\POS_v5.Forgot_Pass.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-TRIAL\POS-v5\obj\Debug\POS_v5.Form1.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-TRIAL\POS-v5\obj\Debug\POS_v5.LoginAdmin.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-TRIAL\POS-v5\obj\Debug\POS_v5.Resources.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-TRIAL\POS-v5\obj\Debug\POS_v5.StaffDashBoard.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-TRIAL\POS-v5\obj\Debug\POS-v5.vbproj.GenerateResource.Cache
+C:\Users\Jessica Rose Tinio\Desktop\JB\POS-TRIAL\POS-v5\obj\Debug\POS_v5.AdminChoices.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-TRIAL\POS-v5\bin\Debug\POS-v5.exe.config
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-TRIAL\POS-v5\obj\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-TRIAL\POS-v5\obj\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-TRIAL\POS-v5\obj\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-TRIAL\POS-v5\bin\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-TRIAL\POS-v5\bin\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-TRIAL\POS-v5\bin\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-TRIAL\POS-v5\obj\Debug\POS-v5.vbprojResolveAssemblyReference.cache
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-TRIAL\POS-v5\obj\Debug\POS_v5.AdminChoices.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-TRIAL\POS-v5\obj\Debug\POS_v5.Forgot_Pass.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-TRIAL\POS-v5\obj\Debug\POS_v5.Form1.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-TRIAL\POS-v5\obj\Debug\POS_v5.LoginAdmin.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-TRIAL\POS-v5\obj\Debug\POS_v5.Resources.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-TRIAL\POS-v5\obj\Debug\POS_v5.StaffDashBoard.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-TRIAL\POS-v5\obj\Debug\POS-v5.vbproj.GenerateResource.Cache
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\bin\Debug\POS-v5.exe.config
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\obj\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\obj\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\obj\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\bin\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\bin\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\bin\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\obj\Debug\POS-v5.vbprojResolveAssemblyReference.cache
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\obj\Debug\POS_v5.AdminChoices.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\obj\Debug\POS_v5.Forgot_Pass.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\obj\Debug\POS_v5.LoginAdmin.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\obj\Debug\POS_v5.Resources.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\obj\Debug\POS_v5.StaffDashBoard.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\obj\Debug\POS-v5.vbproj.GenerateResource.Cache
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\obj\Debug\POS_v5.ManageProducts.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\obj\Debug\POS_v5.ViewSaless.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS-AUTO\POS-v5\obj\Debug\POS_v5.Login.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\bin\Debug\POS-v5.exe.config
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\bin\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\bin\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\bin\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\obj\Debug\POS_v5.AdminChoices.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\obj\Debug\POS_v5.Forgot_Pass.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\obj\Debug\POS_v5.Login.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\obj\Debug\POS_v5.LoginAdmin.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\obj\Debug\POS_v5.ManageProducts.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\obj\Debug\POS_v5.Resources.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\obj\Debug\POS_v5.StaffDashBoard.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\obj\Debug\POS_v5.ViewSaless.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\obj\Debug\POS-v5.vbproj.GenerateResource.Cache
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\obj\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\obj\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED\POS-v5\obj\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\bin\Debug\POS-v5.exe.config
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\obj\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\obj\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\obj\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\obj\Debug\POS_v5.AdminChoices.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\obj\Debug\POS_v5.Forgot_Pass.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\obj\Debug\POS_v5.Login.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\obj\Debug\POS_v5.LoginAdmin.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\obj\Debug\POS_v5.ManageProducts.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\obj\Debug\POS_v5.Resources.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\obj\Debug\POS_v5.StaffDashBoard.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\obj\Debug\POS_v5.ViewSaless.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\obj\Debug\POS-v5.vbproj.GenerateResource.Cache
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\bin\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\bin\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL REVISED 0.5\POS-v5\bin\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\bin\Debug\POS-v5.exe.config
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\obj\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\obj\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\obj\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\bin\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\bin\Debug\POS-v5.pdb
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\bin\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\obj\Debug\POS_v5.AdminChoices.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\obj\Debug\POS_v5.Forgot_Pass.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\obj\Debug\POS_v5.Login.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\obj\Debug\POS_v5.LoginAdmin.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\obj\Debug\POS_v5.ManageProducts.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\obj\Debug\POS_v5.Resources.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\obj\Debug\POS_v5.StaffDashBoard.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\obj\Debug\POS_v5.ViewSaless.resources
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS FINAL - DASHBOARD COMPLETE\POS-v5\obj\Debug\POS-v5.vbproj.GenerateResource.Cache
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\bin\Debug\POS-v5.exe.config
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS-v5.exe
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS-v5.xml
+C:\Users\Jessica Rose Tinio\Desktop\JB\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS-v5.pdb
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS-v5.vbprojAssemblyReference.cache
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS_v5.AdminChoices.resources
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS_v5.Forgot_Pass.resources
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS_v5.Login.resources
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS_v5.LoginAdmin.resources
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS_v5.ManageProducts.resources
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS_v5.Resources.resources
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS_v5.StaffDashBoard.resources
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS_v5.ViewSaless.resources
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS-v5.vbproj.GenerateResource.cache
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS-v5.vbproj.CoreCompileInputs.cache
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS-v5.exe
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS-v5.xml
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\obj\Debug\POS-v5.pdb
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\bin\Debug\POS-v5.exe.config
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\bin\Debug\POS-v5.exe
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\bin\Debug\POS-v5.pdb
+C:\Users\UST\Desktop\COMPROG\POS - FINAL - COMPLETE ALL\POS-v5\bin\Debug\POS-v5.xml
