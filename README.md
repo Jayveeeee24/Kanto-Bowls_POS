@@ -15,3 +15,4 @@ Project Description:
   or individually using the visual basic file (.vb) inside the POS-v5 folder
   - The project can be tested without the use of Visual Studio
   using the exe file in POS-v5\bin\Debug namely POS-v5.exe
+- This project uses Microsoft access 2007 (.mdb) as its database system that can be found on \POS-v5\bin\Debug\Database.mdb
