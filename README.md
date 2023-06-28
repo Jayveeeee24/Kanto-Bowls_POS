@@ -5,7 +5,7 @@
 <h1 align="center">Kanto Bowls POS</h1>
 
 ## Project Description
-**This repository contains the project files for a pos application I created for a restaurant in Cavite City, Cavite.**This project is created as a compliance in a university project on Computer Programming 2, I chose this restaurant to help in their problem of storing and maintaining data and information.
+**This repository contains the project files for a pos application I created for a restaurant in Cavite City, Cavite.** This project is created as a compliance in a university project on Computer Programming 2, I chose this restaurant to help in their problem of storing and maintaining data and information.
 
 ## Project Requirements
 * OS used: Windows
